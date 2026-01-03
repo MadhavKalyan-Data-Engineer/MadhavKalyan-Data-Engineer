@@ -6,9 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ch-madhav-kalyan/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkalyan793@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Vijayawada,_India-green?logo=googlemaps&logoColor=white)](#)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=MadhavKalyan-Data-Engineer&icon=0&color=0)
 
 </div>
 
