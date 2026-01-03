@@ -250,7 +250,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 ### 🔄 Automated GCS-Dataproc Orchestration Pipeline
 **Client: Rolloverstock** 🛒
 
-<img src="https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>-->
 
 </div>
 
