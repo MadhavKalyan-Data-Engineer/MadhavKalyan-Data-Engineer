@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;GCP+Specialist;Supply+Chain+Analytics+Expert;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
 
-### 💼 Cloud Data Engineer | ☁️ GCP GCP Certified Associate Cloud Engineer
+### 💼 Cloud Data Engineer | ☁️ GCP Specialist | 📊 Supply Chain Analytics
 
 <p align="center">
   <a href="https://linkedin.com/in/ch-madhav-kalyan/">
@@ -12,6 +12,9 @@
   </a>
   <a href="mailto:mkalyan793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Vijayawada,_India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </a>
 </p>
 
@@ -25,58 +28,139 @@
 
 ## 👨‍💻 Professional Summary
 
-<!--- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<div align="center">
 
-🚀 Cloud Data Engineer with **3+ years** of hands-on experience designing and operating **scalable data pipelines on Google Cloud Platform (GCP)**. 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-💼 Specialized in building production-grade ETL/ELT solutions for **supply chain analytics** and **logistics operations**, processing **millions of records** with built-in data quality controls and governance frameworks.
+### 🚀 About Me
 
-### 🎯 Core Expertise:
-```yaml
-Architecture: End-to-end data pipeline design on GCP
-Analytics: Supply chain & logistics operational KPIs
-Security: IAM, Policy Tags, RBAC, Data Governance
-Processing: High-volume batch processing with PySpark & Apache Beam
-Orchestration: Workflow automation using Apache Airflow
-Quality: Data validation, reconciliation & disaster recovery
-```
+Cloud Data Engineer with **3+ years** of hands-on experience designing and operating **scalable data pipelines on Google Cloud Platform (GCP)**. 
+
+Specialized in building production-grade ETL/ELT solutions for **supply chain analytics** and **logistics operations**, processing **millions of records** with built-in data quality controls and governance frameworks.
+
+### 🎯 Core Expertise
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
+<br><strong>Architecture</strong>
+<br><sub>End-to-end pipeline design on GCP</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/analytics.png" width="60"/>
+<br><strong>Analytics</strong>
+<br><sub>Supply chain & logistics KPIs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/security-lock.png" width="60"/>
+<br><strong>Security</strong>
+<br><sub>IAM, Policy Tags, RBAC</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="60"/>
+<br><strong>Processing</strong>
+<br><sub>PySpark & Apache Beam</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="60"/>
+<br><strong>Orchestration</strong>
+<br><sub>Apache Airflow automation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/verified-badge.png" width="60"/>
+<br><strong>Quality</strong>
+<br><sub>Validation & reconciliation</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Professional Experience
 
+<div align="center">
+
+### 🏢 Career Journey
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 **Sify Technologies**
-**Data Engineer** | *Feb 2024 - Oct 2024*  
-**Client:** Maersk 🚢
+<div align="center">
 
-#### 🎯 Key Achievements:
-- ⚡ Built enterprise platform processing **1M+ records/batch**
-- 🔐 Implemented column-level security with Policy Tags
-- 🛠️ Developed Dataflow pipelines filtering **260K invalid records**
-- 🔄 Enabled federated queries across Cloud SQL & BigQuery
-- 📊 Delivered Looker Studio dashboards for operations
+### 💼 **Sify Technologies**
+**Data Engineer**  
+*Feb 2024 - Oct 2024*
+
+<img src="https://img.shields.io/badge/Client-Maersk-0052A5?style=for-the-badge&logo=maersk&logoColor=white"/>
+
+<img src="https://img.icons8.com/fluency/96/000000/container-ship.png" width="80"/>
+
+</div>
+
+#### 🎯 Impact Metrics
+- 📊 **1M+** records processed per batch
+- 🔐 **260K** invalid records filtered
+- 📈 **100%** schema backward compatibility
+- ⚡ **Zero** downtime deployments
+
+#### ✨ Key Achievements
+
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-AECBFA?style=flat-square&logo=google-cloud&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+- 🏗️ Architected end-to-end ETL pipelines integrating Cloud SQL, GCS, Pub/Sub, Dataflow, and BigQuery
+- 🔐 Implemented column-level security using Policy Tags and Data Catalog for PII protection
+- ⚙️ Developed scalable Dataflow pipelines with JavaScript UDFs for business rule enforcement
+- 🔄 Enabled cross-platform analytics via BigQuery Federated Queries with Cloud SQL
+- 📊 Delivered curated datasets powering Looker Studio operational dashboards
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 **Federal Soft Systems**
-**Data Executive Engineer** | *Feb 2022 - Aug 2023*  
-**Client:** Rolloverstock 🛒
+<div align="center">
 
-#### 🎯 Key Achievements:
-- 🤖 Built event-driven pipelines with GCS sensors
-- ⚙️ Automated Dataproc job orchestration
-- 📁 Standardized data to optimized columnar formats
-- ✅ Implemented multi-stage quality validation
-- 🔧 Designed fault-tolerant execution workflows
+### 💼 **Federal Soft Systems**
+**Data Executive Engineer**  
+*Feb 2022 - Aug 2023*
+
+<img src="https://img.shields.io/badge/Client-Rolloverstock-FF6B35?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.icons8.com/fluency/96/000000/shopping-cart.png" width="80"/>
+
+</div>
+
+#### 🎯 Impact Metrics
+- 🤖 **100%** pipeline automation
+- ⚡ **50%** faster processing time
+- 📁 **3** data sources integrated
+- 🔧 **Zero** manual interventions
+
+#### ✨ Key Achievements
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![GCS](https://img.shields.io/badge/GCS-FBBC04?style=flat-square&logo=google-cloud&logoColor=black)
+
+- 🤖 Built event-driven pipelines using GCS object sensors and Apache Airflow DAG orchestration
+- ⚙️ Automated Dataproc job execution processing customer, sales, and order datasets
+- 📁 Standardized data formats converting semi-structured files to optimized columnar formats
+- ✅ Implemented multi-stage data quality validation preventing invalid records
+- 🛡️ Designed fault-tolerant execution workflows with monitoring and retry mechanisms
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
