@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;GCP+Specialist;Supply+Chain+Analytics+Expert;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
 
-### 💼 Cloud Data Engineer | ☁️ GCP Specialist | 📊 Supply Chain Analytics
+### 💼 Cloud Data Engineer | ☁️ GCP Certified Associate Cloud Engineer
 
 <p align="center">
   <a href="https://linkedin.com/in/ch-madhav-kalyan/">
@@ -12,9 +12,6 @@
   </a>
   <a href="mailto:mkalyan793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Vijayawada,_India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </a>
 </p>
 
