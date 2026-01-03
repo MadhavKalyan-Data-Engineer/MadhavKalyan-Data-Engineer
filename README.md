@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer;GCP+Specialist;Supply+Chain+Analytics+Expert;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
 
-### 💼 Cloud Data Engineer | ☁️ GCP Certified Associate Cloud Engineer
+### 💼 Cloud Data Engineer | ☁️ GCP GCP Certified Associate Cloud Engineer
 
 <p align="center">
   <a href="https://linkedin.com/in/ch-madhav-kalyan/">
@@ -13,11 +13,16 @@
   <a href="mailto:mkalyan793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Vijayawada,_India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MadhavKalyan-Data-Engineer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 </div>
 
@@ -39,7 +44,7 @@ Orchestration: Workflow automation using Apache Airflow
 Quality: Data validation, reconciliation & disaster recovery
 ```
 
-<img align="right" alt="Data Engineering" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBzZDZ5dHRqNnZ5dHRxNnZ5dHRxNnZ5dHRxNnZ5/GIPHY/giphy.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Professional Experience
 
