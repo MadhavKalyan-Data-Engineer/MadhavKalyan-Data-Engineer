@@ -9,13 +9,14 @@ I am a **Cloud Data Engineer** with a passion for building scalable, high-perfor
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud Platform** | ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
-| **Data Processing** | ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat&logo=apache-spark&logoColor=white) ![Dataflow](https://img.svg.png?label=Dataflow&color=blue) **Apache Beam, Dataproc** |
-| **Storage & Warehouse** | **BigQuery (Expert), Cloud Storage (GCS), Cloud SQL (PostgreSQL), Databricks** |
-| **Orchestration** | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) **Cloud Composer** |
-| **Governance & Security** | **GCP IAM, Data Catalog (Policy Tags), Column-level Security** |
-| **Analysis & Ops** | **Looker Studio, Pandas, Git, Jira, Linux** |
-
+| **Cloud Platform** | ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Data Processing** | ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white) ![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6D00?style=for-the-badge&logo=Apache%20Beam&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Data Warehouse & SQL** | ![BigQuery](https://img.shields.io/badge/BigQuery-669DF2?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Storage & Messaging** | ![GCS](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
+| **Governance & Security** | ![IAM](https://img.shields.io/badge/GCP_IAM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Data Catalog](https://img.shields.io/badge/Data_Catalog-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Version Control & Tools**| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white) |
+| **Visualization** | ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 ---
 
 ### 💫 Professional Highlights
