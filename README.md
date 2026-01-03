@@ -1,5 +1,5 @@
 # Hi there, I'm Madhav Kalyan! 👋 
-### Cloud Data Engineer | GCP Certified | Supply Chain Analytics Specialist
+### Cloud Data Engineer | GCP Certified
 
 I am a **Cloud Data Engineer** with a passion for building scalable, high-performance data pipelines. My expertise lies in the **GCP ecosystem**, where I specialize in turning messy, large-scale supply chain and logistics data into clean, actionable insights.
 
