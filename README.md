@@ -41,7 +41,7 @@ Orchestration: Workflow automation using Apache Airflow
 Quality: Data validation, reconciliation & disaster recovery
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="Data Engineering" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBzZDZ5dHRqNnZ5dHRxNnZ5dHRxNnZ5dHRxNnZ5/GIPHY/giphy.gif"/>
 
 ## 🚀 Professional Experience
 
