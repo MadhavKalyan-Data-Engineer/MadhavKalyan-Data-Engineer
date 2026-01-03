@@ -96,7 +96,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 <img src="https://img.shields.io/badge/Client-Maersk-0052A5?style=for-the-badge&logo=maersk&logoColor=white"/>
 
-<img src="https://img.icons8.com/fluency/96/000000/container-ship.png" width="80"/>
+<!-- <img src="https://img.icons8.com/fluency/96/000000/container-ship.png" width="80"/> -->
 
 </div>
 
