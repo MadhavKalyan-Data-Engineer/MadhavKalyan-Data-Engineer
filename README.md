@@ -13,9 +13,6 @@
   <a href="mailto:mkalyan793@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Vijayawada,_India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  </a>
 </p>
 
 <p align="center">
