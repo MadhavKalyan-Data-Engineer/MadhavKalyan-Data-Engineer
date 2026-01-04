@@ -108,7 +108,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 #### ✨ Key Achievements
 
-![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=MadhavKalyan-Data-Engineer&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies"/>
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-AECBFA?style=flat-square&logo=google-cloud&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
