@@ -268,7 +268,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKalyan-Data-Engineer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://ghchart.rshah.org/58A6FF/MadhavKalyan-Data-Engineer" alt="GitHub Chart"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhavKalyan-Data-Engineer&theme=tokyonight" alt="Contribution Time"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKalyan-Data-Engineer&theme=tokyonight" alt="Activity"/>
