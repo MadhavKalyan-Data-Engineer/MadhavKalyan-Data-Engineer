@@ -268,10 +268,10 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadhavKalyan-Data-Engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKalyan-Data-Engineer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MadhavKalyan-Data-Engineer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavKalyan-Data-Engineer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKalyan-Data-Engineer&theme=tokyonight" alt="Activity"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavKalyan-Data-Engineer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" alt="Activity Graph"/>
 
 </div>
