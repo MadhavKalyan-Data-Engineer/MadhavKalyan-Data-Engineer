@@ -305,6 +305,10 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 <div align="center">
 
+
+<table>
+<tr>
+<td>
 ```python
 current_focus = {
     "🏗️ building": "Scalable data pipelines on GCP with BigQuery, Dataflow, and Cloud Composer",
@@ -315,7 +319,11 @@ current_focus = {
 
 def my_mission():
     return "Turning messy raw data into clean, analytics-ready datasets! 🚀"
-```
+    
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -327,7 +335,7 @@ def my_mission():
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Open+to+Collaboration+on+Data+Engineering+Projects!;Let's+Build+Something+Amazing+Together!;Always+Learning%2C+Always+Growing!" alt="Collaboration" />
 
-</div>
+</div >
 
 ### 💬 I'm Passionate About:
 - 🔹 Turning messy raw data into clean, analytics-ready datasets
