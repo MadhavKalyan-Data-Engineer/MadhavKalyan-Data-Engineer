@@ -280,7 +280,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 
 ## 🎓 Education & Certifications
 
-<table>
+<table align="center">
 <tr align="center" >
 <td width="50%" align="center">
 
