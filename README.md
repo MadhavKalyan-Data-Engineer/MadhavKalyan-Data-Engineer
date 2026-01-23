@@ -111,13 +111,13 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=MadhavKalyan-Data-Engineer&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies"/> -->
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-AECBFA?style=flat-square&logo=google-cloud&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 - 🏗️ Architected end-to-end ETL pipelines integrating Cloud SQL, GCS, Pub/Sub, Dataflow, and BigQuery
 - 🔐 Implemented column-level security using Policy Tags and Data Catalog for PII protection
 - ⚙️ Developed scalable Dataflow pipelines with JavaScript UDFs for business rule enforcement
 - 🔄 Enabled cross-platform analytics via BigQuery Federated Queries with Cloud SQL
-- 📊 Delivered curated datasets powering Looker Studio operational dashboards
+- 📊 Delivered curated datasets powering Power BI operational dashboards
 
 </td>
 <td width="50%" valign="top">
@@ -194,7 +194,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🎯 Core Competencies
@@ -231,7 +231,7 @@ Specialized in building production-grade ETL/ELT solutions for **supply chain an
 ### 📦 Supply Chain Data Integration Platform
 **Client: Maersk** 🚢
 
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Dataflow-AECBFA?style=for-the-badge&logo=google-cloud&logoColor=black"/> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Dataflow-AECBFA?style=for-the-badge&logo=google-cloud&logoColor=black"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
